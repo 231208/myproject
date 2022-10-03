@@ -1,0 +1,85 @@
+
+.he{
+    background-color: blue;
+    font-family: cursive;
+    color: aliceblue;
+    align-items: center;
+    margin-right: 424px;
+}
+
+.he .portfolio{
+    color: red;
+    margin-left: 45%;
+}
+
+#navbar{
+    font-weight: bold;
+    align-items: center;
+}
+
+#navbar a{
+    text-decoration: none;
+    cursor: pointer;
+    padding: 20px;
+    
+}
+
+#navbar a:hover{
+    color: aliceblue;
+    background-color: black;
+    border-radius: 89px;
+}
+
+#imgc{
+    height: 200px;
+    width: 150px;
+    display: block;
+    margin-left: 705px;
+    margin-top: 20px;
+    justify-content: right;
+}
+
+.imgclass{
+    height: 400px;
+    width: 550px;
+    margin-left: 90px;
+    justify-content: right;
+    border-radius: 626px;
+}
+
+.mypic{
+    height: 323px;
+    width: 223px;
+    align-items: center;
+}
+
+.container{
+    align-items: center;
+    justify-content: center;
+    margin-top: 2px;
+}
+
+.upara{
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 1.1rem;
+    margin-left: 25px;
+    align-items: center;
+    justify-content: center;
+    color: rgb(245, 9, 9);
+    margin-right: 600px;
+}
+
+.alink{
+    margin-left: 60%;
+    text-decoration: none;
+}
+
+.media{
+    height: 20px;
+    margin-left: 73%;
+}
+
+.media .insta:hover{
+    
+}

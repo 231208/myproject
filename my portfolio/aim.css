@@ -1,0 +1,10 @@
+.mybody{
+    background: url(img/aim.jpg);
+}
+
+.myhead{
+    font-family: cursive;
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: white;
+}

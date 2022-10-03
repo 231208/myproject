@@ -1,0 +1,12 @@
+.mybody{
+    background: url(img/about.png);
+    position: absolute;
+}
+.mytable{
+    margin-top: 60px;
+    width: 820px;
+    color: black;
+    font-weight: bold;
+    margin-left: 30%;
+    font-size: 1.2rem;
+}
